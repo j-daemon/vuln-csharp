@@ -1,6 +1,7 @@
 using System;
 using System.Data.SqlClient;
 
+// This sample intentionally contains insecure patterns for static analysis testing.
 class Program {
     static void Main(string[] args) {
         // Intentional hardcoded password
